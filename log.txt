@@ -123,3 +123,92 @@
 2024/11/24 10:19:22 Failed to process image image_91.jpeg: failed to upload image: upload failed with code 000403
 2024/11/24 10:19:37 Failed to process image image_92.jpeg: failed to upload image: upload failed with code 000403
 2024/11/24 10:19:52 Failed to process image image_93.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:27:10 Failed to process image image_56.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:28:23 Failed to process image image_57.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:29:37 Failed to process image image_58.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:30:51 Failed to process image image_66.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:32:05 Failed to process image image_67.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:33:19 Failed to process image image_68.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:34:33 Failed to process image image_69.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:35:47 Failed to process image image_7.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:37:02 Failed to process image image_70.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:38:15 Failed to process image image_71.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:38:48 Successfully processed image image_72.jpeg
+2024/11/24 10:39:35 Successfully processed image image_73.jpeg
+2024/11/24 10:40:08 Successfully processed image image_74.jpeg
+2024/11/24 10:40:49 Successfully processed image image_75.jpeg
+2024/11/24 10:41:48 Successfully processed image image_76.jpeg
+2024/11/24 10:42:47 Successfully processed image image_77.jpeg
+2024/11/24 10:43:41 Successfully processed image image_78.jpeg
+2024/11/24 10:44:18 Successfully processed image image_79.jpeg
+2024/11/24 10:45:14 Successfully processed image image_8.jpeg
+2024/11/24 10:46:08 Successfully processed image image_80.jpeg
+2024/11/24 10:46:51 Successfully processed image image_81.jpeg
+2024/11/24 10:47:37 Successfully processed image image_82.jpeg
+2024/11/24 10:48:23 Successfully processed image image_83.jpeg
+2024/11/24 10:49:31 Successfully processed image image_84.jpeg
+2024/11/24 10:50:31 Successfully processed image image_85.jpeg
+2024/11/24 10:51:26 Successfully processed image image_86.jpeg
+2024/11/24 10:52:39 Failed to process image image_87.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:53:26 Successfully processed image image_88.jpeg
+2024/11/24 10:54:01 Successfully processed image image_89.jpeg
+2024/11/24 10:54:36 Successfully processed image image_9.jpeg
+2024/11/24 10:54:51 Failed to process image image_90.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:55:07 Failed to process image image_91.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:55:22 Failed to process image image_92.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:55:39 Failed to process image image_93.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:55:54 Failed to process image image_94.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:56:10 Failed to process image image_95.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:56:25 Failed to process image image_96.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:56:42 Failed to process image image_97.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:56:57 Failed to process image image_98.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:57:13 Failed to process image image_99.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:58:47 Successfully processed image image_56.jpeg
+2024/11/24 10:59:22 Successfully processed image image_57.jpeg
+2024/11/24 11:00:15 Successfully processed image image_58.jpeg
+2024/11/24 11:00:57 Successfully processed image image_66.jpeg
+2024/11/24 11:01:31 Successfully processed image image_67.jpeg
+2024/11/24 11:02:06 Successfully processed image image_68.jpeg
+2024/11/24 11:02:43 Successfully processed image image_69.jpeg
+2024/11/24 11:03:16 Successfully processed image image_7.jpeg
+2024/11/24 11:03:53 Successfully processed image image_70.jpeg
+2024/11/24 11:04:45 Successfully processed image image_71.jpeg
+2024/11/24 11:05:22 Successfully processed image image_87.jpeg
+2024/11/24 11:06:23 Successfully processed image image_90.jpeg
+2024/11/24 11:07:09 Successfully processed image image_91.jpeg
+2024/11/24 11:07:53 Successfully processed image image_92.jpeg
+2024/11/24 11:07:58 Successfully processed image image_93.jpeg
+2024/11/24 11:09:12 Failed to process image image_95.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:09:14 Failed to process image image_94.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:12:37 Failed to process image image_96.jpeg: OCR error: POST request failed: Post "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/image-ocr": read tcp 172.21.72.99:36422->14.161.23.125:443: read: connection timed out
+2024/11/24 11:14:05 Failed to process image image_95.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:14:08 Failed to process image image_94.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:15:25 Failed to process image image_97.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:15:27 Failed to process image image_96.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:16:41 Failed to process image image_98.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:16:43 Failed to process image image_99.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:18:26 Failed to process image image_94.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:18:30 Failed to process image image_95.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:19:11 Successfully processed image image_97.jpeg
+2024/11/24 11:19:23 Successfully processed image image_96.jpeg
+2024/11/24 11:19:38 Failed to process image image_99.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 11:19:56 Successfully processed image image_98.jpeg
+2024/11/24 11:21:01 Failed to process image image_95.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 11:21:01 Failed to process image image_94.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 11:21:15 Failed to process image image_95.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 11:21:15 Failed to process image image_94.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 11:21:34 Failed to process image image_99.jpeg: failed to upload image: POST request failed: Post "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/image-upload": read tcp 172.21.72.99:33562->115.79.4.48:443: read: connection reset by peer
+2024/11/24 11:22:32 Successfully processed image image_94.jpeg
+2024/11/24 11:22:38 Failed to process image image_95.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 11:24:46 Successfully processed image image_95.jpeg
+2024/11/24 11:25:23 Successfully processed image image_99.jpeg
+2024/11/24 11:26:10 Failed to process image image_18.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:26:35 Failed to process image image_20.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:26:58 Failed to process image image_22.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:27:22 Failed to process image image_24.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:27:47 Failed to process image image_27.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:28:12 Failed to process image image_34.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:28:35 Failed to process image image_37.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:28:59 Failed to process image image_40.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:29:23 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 11:29:44 Failed to process image image_44.jpeg: OCR error: OCR failed with code 000500
