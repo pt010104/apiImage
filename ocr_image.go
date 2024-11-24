@@ -146,10 +146,14 @@ func processImage(imagePath string) error {
 		return fmt.Errorf("failed to upload image: %w", err)
 	}
 
+	time.Sleep(3 * time.Second)
+
 	classificationData, err := classifyImage(fileName)
 	if err != nil {
 		return fmt.Errorf("classification error: %w", err)
 	}
+
+	time.Sleep(2 * time.Second)
 
 	ocrData, err := ocrImage(fileName, classificationData.ClassificationID)
 	if err != nil {
@@ -159,6 +163,11 @@ func processImage(imagePath string) error {
 	err = saveOCRResults(imageName, ocrData)
 	if err != nil {
 		return fmt.Errorf("failed to save OCR results: %w", err)
+	}
+
+	err = os.Remove(imagePath)
+	if err != nil {
+		return fmt.Errorf("failed to delete image %s: %w", imagePath, err)
 	}
 
 	return nil

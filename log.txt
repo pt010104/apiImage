@@ -1,45 +1,81 @@
-2024/11/24 00:18:27 Successfully processed image image_0.jpeg
-2024/11/24 00:39:58 Successfully processed image image_0.jpeg
-2024/11/24 00:40:25 Successfully processed image image_1.jpeg
-2024/11/24 00:40:56 Successfully processed image image_10.jpeg
-2024/11/24 00:41:23 Successfully processed image image_100.jpeg
-2024/11/24 00:41:50 Successfully processed image image_101.jpeg
-2024/11/24 00:42:16 Successfully processed image image_102.jpeg
-2024/11/24 00:42:43 Successfully processed image image_103.jpeg
-2024/11/24 00:43:15 Successfully processed image image_104.jpeg
-2024/11/24 00:43:41 Successfully processed image image_105.jpeg
-2024/11/24 00:44:10 Successfully processed image image_106.jpeg
-2024/11/24 00:44:37 Successfully processed image image_107.jpeg
-2024/11/24 00:45:05 Successfully processed image image_108.jpeg
-2024/11/24 00:45:33 Successfully processed image image_109.jpeg
-2024/11/24 00:46:03 Successfully processed image image_11.jpeg
-2024/11/24 00:46:32 Successfully processed image image_110.jpeg
-2024/11/24 00:46:59 Successfully processed image image_111.jpeg
-2024/11/24 00:47:28 Successfully processed image image_112.jpeg
-2024/11/24 00:47:57 Successfully processed image image_113.jpeg
-2024/11/24 00:48:25 Successfully processed image image_114.jpeg
-2024/11/24 00:48:53 Successfully processed image image_115.jpeg
-2024/11/24 00:49:22 Successfully processed image image_116.jpeg
-2024/11/24 00:49:49 Successfully processed image image_117.jpeg
-2024/11/24 00:50:21 Successfully processed image image_118.jpeg
-2024/11/24 00:50:51 Successfully processed image image_119.jpeg
-2024/11/24 00:51:20 Successfully processed image image_12.jpeg
-2024/11/24 00:51:48 Successfully processed image image_120.jpeg
-2024/11/24 00:52:15 Successfully processed image image_121.jpeg
-2024/11/24 00:52:44 Successfully processed image image_122.jpeg
-2024/11/24 00:53:12 Successfully processed image image_123.jpeg
-2024/11/24 00:53:39 Successfully processed image image_124.jpeg
-2024/11/24 00:53:54 Failed to process image image_125.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:54:09 Failed to process image image_126.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:54:24 Failed to process image image_127.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:54:40 Failed to process image image_128.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:54:55 Failed to process image image_129.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:55:10 Failed to process image image_13.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:55:25 Failed to process image image_130.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:55:40 Failed to process image image_131.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:55:55 Failed to process image image_14.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:56:10 Failed to process image image_15.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:56:25 Failed to process image image_16.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:56:40 Failed to process image image_17.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:56:55 Failed to process image image_18.jpeg: failed to upload image: upload failed with code 000403
-2024/11/24 00:57:10 Failed to process image image_19.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:35:54 Failed to process image image_20.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:35:55 Failed to process image image_18.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:36:12 Failed to process image image_22.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:36:28 Successfully processed image image_23.jpeg
+2024/11/24 01:36:44 Failed to process image image_25.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:36:44 Failed to process image image_24.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:37:01 Failed to process image image_27.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:37:12 Successfully processed image image_26.jpeg
+2024/11/24 01:37:39 Successfully processed image image_28.jpeg
+2024/11/24 01:37:52 Successfully processed image image_29.jpeg
+2024/11/24 01:38:24 Successfully processed image image_30.jpeg
+2024/11/24 01:38:38 Successfully processed image image_3.jpeg
+2024/11/24 01:39:10 Successfully processed image image_32.jpeg
+2024/11/24 01:39:24 Successfully processed image image_31.jpeg
+2024/11/24 01:39:40 Failed to process image image_34.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:39:53 Successfully processed image image_33.jpeg
+2024/11/24 01:40:22 Successfully processed image image_36.jpeg
+2024/11/24 01:40:35 Successfully processed image image_35.jpeg
+2024/11/24 01:40:51 Failed to process image image_37.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:41:05 Successfully processed image image_38.jpeg
+2024/11/24 01:41:33 Successfully processed image image_4.jpeg
+2024/11/24 01:41:46 Successfully processed image image_39.jpeg
+2024/11/24 01:42:03 Failed to process image image_40.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:42:15 Successfully processed image image_41.jpeg
+2024/11/24 01:42:30 Failed to process image image_42.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:42:33 Failed to process image image_43.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:43:43 Failed to process image image_20.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:43:44 Failed to process image image_18.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:44:00 Failed to process image image_22.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:44:00 Failed to process image image_24.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:44:16 Failed to process image image_25.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:44:17 Failed to process image image_27.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:47:08 Failed to process image image_18.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:47:08 Failed to process image image_20.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:47:25 Failed to process image image_22.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:47:25 Failed to process image image_24.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:47:40 Failed to process image image_25.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:47:41 Failed to process image image_27.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:47:57 Failed to process image image_34.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:47:57 Failed to process image image_37.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:48:17 Failed to process image image_20.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:48:17 Failed to process image image_18.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:48:47 Failed to process image image_18.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:49:03 Failed to process image image_20.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:49:19 Failed to process image image_22.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:49:35 Failed to process image image_24.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:50:04 Successfully processed image image_25.jpeg
+2024/11/24 01:50:21 Failed to process image image_27.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:50:37 Failed to process image image_34.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:50:53 Failed to process image image_37.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:51:09 Failed to process image image_40.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:51:26 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 01:51:41 Failed to process image image_43.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:51:56 Failed to process image image_44.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:52:11 Failed to process image image_45.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:55:02 Failed to process image image_18.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:55:32 Failed to process image image_20.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:56:32 Failed to process image image_18.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:57:02 Failed to process image image_20.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:57:32 Failed to process image image_22.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:58:03 Failed to process image image_24.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:58:33 Failed to process image image_27.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:59:03 Failed to process image image_34.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 01:59:33 Failed to process image image_37.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 09:30:51 Failed to process image image_18.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 09:33:18 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 09:34:33 Successfully processed image image_43.jpeg
+2024/11/24 09:35:05 Failed to process image image_44.jpeg: failed to upload image: unable to open image file: open processed_images/image_44.jpeg: no such file or directory
+2024/11/24 09:35:52 Successfully processed image image_45.jpeg
+2024/11/24 09:36:45 Successfully processed image image_46.jpeg
+2024/11/24 09:37:16 Failed to process image image_47.jpeg: failed to upload image: unable to open image file: open processed_images/image_47.jpeg: no such file or directory
+2024/11/24 09:38:04 Successfully processed image image_48.jpeg
+2024/11/24 09:38:59 Successfully processed image image_49.jpeg
+2024/11/24 09:39:53 Successfully processed image image_5.jpeg
+2024/11/24 09:40:32 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 09:41:26 Successfully processed image image_50.jpeg
+2024/11/24 09:42:21 Successfully processed image image_51.jpeg
+2024/11/24 09:43:20 Successfully processed image image_52.jpeg
+2024/11/24 09:50:00 Successfully processed image image_53.jpeg
+2024/11/24 09:51:13 Failed to process image image_54.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 09:52:26 Failed to process image image_55.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
