@@ -79,3 +79,47 @@
 2024/11/24 09:50:00 Successfully processed image image_53.jpeg
 2024/11/24 09:51:13 Failed to process image image_54.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
 2024/11/24 09:52:26 Failed to process image image_55.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 09:54:53 Successfully processed image image_54.jpeg
+2024/11/24 09:56:05 Successfully processed image image_55.jpeg
+2024/11/24 09:57:18 Failed to process image image_56.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 09:58:31 Failed to process image image_57.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 09:59:44 Failed to process image image_58.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:00:07 Failed to process image image_59.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 10:00:29 Failed to process image image_6.jpeg: OCR error: OCR failed with code 000500
+2024/11/24 10:01:05 Successfully processed image image_60.jpeg
+2024/11/24 10:01:50 Successfully processed image image_61.jpeg
+2024/11/24 10:02:40 Successfully processed image image_62.jpeg
+2024/11/24 10:03:23 Successfully processed image image_63.jpeg
+2024/11/24 10:04:22 Successfully processed image image_64.jpeg
+2024/11/24 10:05:20 Successfully processed image image_65.jpeg
+2024/11/24 10:06:33 Failed to process image image_66.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:07:46 Failed to process image image_67.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:08:59 Failed to process image image_68.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:10:12 Failed to process image image_69.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:11:25 Failed to process image image_7.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:12:37 Failed to process image image_70.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:13:51 Failed to process image image_71.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/24 10:14:06 Failed to process image image_72.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:14:21 Failed to process image image_73.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:14:36 Failed to process image image_74.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:14:51 Failed to process image image_75.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:15:06 Failed to process image image_76.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:15:21 Failed to process image image_77.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:15:36 Failed to process image image_78.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:15:52 Failed to process image image_79.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:16:07 Failed to process image image_8.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:16:22 Failed to process image image_80.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:16:37 Failed to process image image_81.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:16:52 Failed to process image image_82.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:17:07 Failed to process image image_83.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:17:22 Failed to process image image_84.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:17:37 Failed to process image image_85.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:17:52 Failed to process image image_86.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:18:07 Failed to process image image_87.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:18:22 Failed to process image image_88.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:18:37 Failed to process image image_89.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:18:52 Failed to process image image_9.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:19:07 Failed to process image image_90.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:19:22 Failed to process image image_91.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:19:37 Failed to process image image_92.jpeg: failed to upload image: upload failed with code 000403
+2024/11/24 10:19:52 Failed to process image image_93.jpeg: failed to upload image: upload failed with code 000403
