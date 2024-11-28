@@ -212,3 +212,177 @@
 2024/11/24 11:28:59 Failed to process image image_40.jpeg: OCR error: OCR failed with code 000500
 2024/11/24 11:29:23 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
 2024/11/24 11:29:44 Failed to process image image_44.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:51:38 Successfully processed image image_18.jpeg
+2024/11/28 13:51:38 Successfully processed image image_20.jpeg
+2024/11/28 13:51:39 Successfully processed image image_22.jpeg
+2024/11/28 13:51:39 Successfully processed image image_24.jpeg
+2024/11/28 13:51:40 Successfully processed image image_27.jpeg
+2024/11/28 13:51:40 Failed to process image image_34.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_37.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_40.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_42.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_44.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_47.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_59.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:51:40 Failed to process image image_6.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_34.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_37.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_40.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_42.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_44.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_47.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_59.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:52:27 Failed to process image image_6.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:54:20 Failed to process image image_34.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:54:21 Successfully processed image image_37.jpeg
+2024/11/28 13:54:21 Successfully processed image image_40.jpeg
+2024/11/28 13:54:21 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:54:21 Failed to process image image_44.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:54:21 Failed to process image image_47.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:54:22 Failed to process image image_59.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:54:22 Failed to process image image_6.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 13:56:03 Failed to process image image_34.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:56:03 Failed to process image image_42.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:56:03 Failed to process image image_44.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:56:03 Failed to process image image_47.jpeg: OCR error: OCR failed with code 000500
+2024/11/28 13:56:16 Successfully processed image image_59.jpeg
+2024/11/28 13:56:16 Failed to process image image_6.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:03:18 Successfully processed image thanh_giao_yeu_ly_image_101.jpeg
+2024/11/28 14:03:30 Successfully processed image thanh_giao_yeu_ly_image_103.jpeg
+2024/11/28 14:03:40 Successfully processed image thanh_giao_yeu_ly_image_105.jpeg
+2024/11/28 14:03:52 Successfully processed image thanh_giao_yeu_ly_image_107.jpeg
+2024/11/28 14:04:03 Successfully processed image thanh_giao_yeu_ly_image_109.jpeg
+2024/11/28 14:04:03 Failed to process image thanh_giao_yeu_ly_image_11.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:03 Failed to process image thanh_giao_yeu_ly_image_111.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:03 Failed to process image thanh_giao_yeu_ly_image_113.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:03 Failed to process image thanh_giao_yeu_ly_image_115.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:03 Failed to process image thanh_giao_yeu_ly_image_117.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:03 Failed to process image thanh_giao_yeu_ly_image_119.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_121.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_123.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_125.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_127.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_129.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_13.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_131.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_133.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:04 Failed to process image thanh_giao_yeu_ly_image_135.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_137.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_139.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_141.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_143.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_145.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_147.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_149.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:05 Failed to process image thanh_giao_yeu_ly_image_15.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_151.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_153.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_155.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_157.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_159.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_161.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_163.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:06 Failed to process image thanh_giao_yeu_ly_image_165.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:07 Failed to process image thanh_giao_yeu_ly_image_167.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:04:20 Successfully processed image thanh_giao_yeu_ly_image_169.jpeg
+2024/11/28 14:04:32 Successfully processed image thanh_giao_yeu_ly_image_171.jpeg
+2024/11/28 14:04:45 Successfully processed image thanh_giao_yeu_ly_image_173.jpeg
+2024/11/28 14:04:57 Successfully processed image thanh_giao_yeu_ly_image_175.jpeg
+2024/11/28 14:05:07 Successfully processed image thanh_giao_yeu_ly_image_177.jpeg
+2024/11/28 14:05:20 Successfully processed image thanh_giao_yeu_ly_image_179.jpeg
+2024/11/28 14:05:32 Successfully processed image thanh_giao_yeu_ly_image_181.jpeg
+2024/11/28 14:05:32 Failed to process image thanh_giao_yeu_ly_image_183.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:32 Failed to process image thanh_giao_yeu_ly_image_185.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:32 Failed to process image thanh_giao_yeu_ly_image_187.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:32 Failed to process image thanh_giao_yeu_ly_image_189.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:32 Failed to process image thanh_giao_yeu_ly_image_19.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:32 Failed to process image thanh_giao_yeu_ly_image_191.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:45 Successfully processed image thanh_giao_yeu_ly_image_193.jpeg
+2024/11/28 14:05:45 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:05:58 Successfully processed image thanh_giao_yeu_ly_image_197.jpeg
+2024/11/28 14:06:09 Successfully processed image thanh_giao_yeu_ly_image_199.jpeg
+2024/11/28 14:06:22 Successfully processed image thanh_giao_yeu_ly_image_201.jpeg
+2024/11/28 14:06:33 Successfully processed image thanh_giao_yeu_ly_image_203.jpeg
+2024/11/28 14:06:44 Successfully processed image thanh_giao_yeu_ly_image_205.jpeg
+2024/11/28 14:06:44 Failed to process image thanh_giao_yeu_ly_image_207.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:44 Failed to process image thanh_giao_yeu_ly_image_209.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:44 Failed to process image thanh_giao_yeu_ly_image_21.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_211.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_213.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_215.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_217.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_219.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_221.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_223.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_225.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_227.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:06:45 Failed to process image thanh_giao_yeu_ly_image_229.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:00 Successfully processed image thanh_giao_yeu_ly_image_23.jpeg
+2024/11/28 14:07:11 Successfully processed image thanh_giao_yeu_ly_image_231.jpeg
+2024/11/28 14:07:23 Successfully processed image thanh_giao_yeu_ly_image_233.jpeg
+2024/11/28 14:07:34 Successfully processed image thanh_giao_yeu_ly_image_235.jpeg
+2024/11/28 14:07:47 Successfully processed image thanh_giao_yeu_ly_image_237.jpeg
+2024/11/28 14:07:58 Successfully processed image thanh_giao_yeu_ly_image_239.jpeg
+2024/11/28 14:07:58 Failed to process image thanh_giao_yeu_ly_image_241.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_25.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_27.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_29.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_3.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_31.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_33.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_35.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_37.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_39.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_41.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_43.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:07:59 Failed to process image thanh_giao_yeu_ly_image_45.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:11 Successfully processed image thanh_giao_yeu_ly_image_47.jpeg
+2024/11/28 14:08:22 Successfully processed image thanh_giao_yeu_ly_image_49.jpeg
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_5.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_51.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_53.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_55.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_57.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_59.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_61.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:22 Failed to process image thanh_giao_yeu_ly_image_63.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:23 Failed to process image thanh_giao_yeu_ly_image_65.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:23 Failed to process image thanh_giao_yeu_ly_image_67.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:35 Successfully processed image thanh_giao_yeu_ly_image_69.jpeg
+2024/11/28 14:08:46 Successfully processed image thanh_giao_yeu_ly_image_7.jpeg
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_71.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_73.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_75.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_77.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_79.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_81.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_83.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_85.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_87.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_89.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_9.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_91.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_93.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_95.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_97.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:08:46 Failed to process image thanh_giao_yeu_ly_image_99.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:33:26 Successfully processed image thanh_giao_yeu_ly_image_101.jpeg
+2024/11/28 14:35:06 Successfully processed image thanh_giao_yeu_ly_image_103.jpeg
+2024/11/28 14:36:18 Successfully processed image thanh_giao_yeu_ly_image_105.jpeg
+2024/11/28 14:36:31 Successfully processed image thanh_giao_yeu_ly_image_107.jpeg
+2024/11/28 14:37:44 Successfully processed image thanh_giao_yeu_ly_image_109.jpeg
+2024/11/28 14:37:55 Successfully processed image thanh_giao_yeu_ly_image_11.jpeg
+2024/11/28 14:39:09 Successfully processed image thanh_giao_yeu_ly_image_111.jpeg
+2024/11/28 14:39:09 Failed to process image thanh_giao_yeu_ly_image_113.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:40:09 Failed to process image thanh_giao_yeu_ly_image_115.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:40:09 Failed to process image thanh_giao_yeu_ly_image_117.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:41:09 Failed to process image thanh_giao_yeu_ly_image_119.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:41:09 Failed to process image thanh_giao_yeu_ly_image_121.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:42:10 Failed to process image thanh_giao_yeu_ly_image_123.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:42:10 Failed to process image thanh_giao_yeu_ly_image_125.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:43:10 Failed to process image thanh_giao_yeu_ly_image_127.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:43:10 Failed to process image thanh_giao_yeu_ly_image_129.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:44:10 Failed to process image thanh_giao_yeu_ly_image_13.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:44:10 Failed to process image thanh_giao_yeu_ly_image_131.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:45:10 Failed to process image thanh_giao_yeu_ly_image_133.jpeg: failed to upload image: upload failed with code 000403
+2024/11/28 14:45:10 Failed to process image thanh_giao_yeu_ly_image_135.jpeg: failed to upload image: upload failed with code 000403

@@ -64,7 +64,6 @@ def process_image(image_path):
         cv2.destroyAllWindows()
     else:
         cropped_images = [gray_image]
-
     for i, cropped_image in enumerate(cropped_images):
         cropped_images[i] = handle_cropped_image(cropped_image)
 
@@ -73,8 +72,10 @@ def process_image(image_path):
 
 output_images_dir = "processed_images"
 os.makedirs(output_images_dir, exist_ok=True)
-for i in range(0, 132):
-    image_path = f"extracted_images/image_{str(i)}.jpeg"
-    final_image = process_image(image_path)
-    output_image_path = os.path.join(output_images_dir, f"image_{str(i)}.jpeg")
-    cv2.imwrite(output_image_path, final_image)
+folder_path = "extracted_images"
+for filename in os.listdir(folder_path):
+    if filename.endswith(".jpeg"):
+        image_path = os.path.join(folder_path, filename)
+        final_image = process_image(image_path)
+        output_image_path = os.path.join(output_images_dir, filename)
+        cv2.imwrite(output_image_path, final_image)

@@ -18,7 +18,7 @@ import (
 
 const baseURL = "https://tools.clc.hcmus.edu.vn"
 const (
-	processedImagesDir = "00500"
+	processedImagesDir = "processed_images"
 	responseDir        = "response"
 	logFile            = "log.txt"
 )
