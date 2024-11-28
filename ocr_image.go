@@ -106,7 +106,6 @@ func main() {
 		}
 		currentBatch := validImageFiles[start:end]
 
-		count := 0
 		var wg sync.WaitGroup
 		for _, file := range currentBatch {
 			wg.Add(1)
@@ -121,12 +120,11 @@ func main() {
 				}
 			}(file)
 
-			count++
 		}
 
 		wg.Wait()
 		if batch < totalBatches-1 {
-			if count%2 == 0 {
+			if batch%2 == 0 {
 				time.Sleep(60 * time.Second)
 			}
 		}
