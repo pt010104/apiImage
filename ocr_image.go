@@ -106,6 +106,7 @@ func main() {
 		}
 		currentBatch := validImageFiles[start:end]
 
+		count := 0
 		var wg sync.WaitGroup
 		for _, file := range currentBatch {
 			wg.Add(1)
@@ -119,11 +120,15 @@ func main() {
 					logger.Printf("Successfully processed image %s", file.Name())
 				}
 			}(file)
+
+			count++
 		}
 
 		wg.Wait()
 		if batch < totalBatches-1 {
-			time.Sleep(15 * time.Second)
+			if count%2 == 0 {
+				time.Sleep(60 * time.Second)
+			}
 		}
 	}
 }
@@ -146,16 +151,18 @@ func processImage(imagePath string) error {
 		return fmt.Errorf("failed to upload image: %w", err)
 	}
 
-	time.Sleep(3 * time.Second)
+	var forceClassID int
+	forceClassID = 1 //Comment if want to classify image
 
-	classificationData, err := classifyImage(fileName)
-	if err != nil {
-		return fmt.Errorf("classification error: %w", err)
+	if forceClassID == 0 {
+		classificationData, err := classifyImage(fileName)
+		if err != nil {
+			return fmt.Errorf("classification error: %w", err)
+		}
+		forceClassID = classificationData.ClassificationID
 	}
 
-	time.Sleep(2 * time.Second)
-
-	ocrData, err := ocrImage(fileName, classificationData.ClassificationID)
+	ocrData, err := ocrImage(fileName, forceClassID)
 	if err != nil {
 		return fmt.Errorf("OCR error: %w", err)
 	}
