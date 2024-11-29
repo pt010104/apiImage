@@ -386,3 +386,296 @@
 2024/11/28 14:44:10 Failed to process image thanh_giao_yeu_ly_image_131.jpeg: failed to upload image: upload failed with code 000403
 2024/11/28 14:45:10 Failed to process image thanh_giao_yeu_ly_image_133.jpeg: failed to upload image: upload failed with code 000403
 2024/11/28 14:45:10 Failed to process image thanh_giao_yeu_ly_image_135.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 09:37:44 Successfully processed image thanh_giao_yeu_ly_image_101.jpeg
+2024/11/29 09:38:17 Successfully processed image thanh_giao_yeu_ly_image_103.jpeg
+2024/11/29 09:38:48 Successfully processed image thanh_giao_yeu_ly_image_105.jpeg
+2024/11/29 09:39:19 Successfully processed image thanh_giao_yeu_ly_image_107.jpeg
+2024/11/29 09:40:10 Failed to process image thanh_giao_yeu_ly_image_109.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 09:40:42 Successfully processed image thanh_giao_yeu_ly_image_11.jpeg
+2024/11/29 09:41:13 Successfully processed image thanh_giao_yeu_ly_image_111.jpeg
+2024/11/29 09:41:45 Successfully processed image thanh_giao_yeu_ly_image_113.jpeg
+2024/11/29 09:41:57 Successfully processed image thanh_giao_yeu_ly_image_115.jpeg
+2024/11/29 09:42:44 Successfully processed image thanh_giao_yeu_ly_image_117.jpeg
+2024/11/29 09:43:16 Successfully processed image thanh_giao_yeu_ly_image_119.jpeg
+2024/11/29 09:57:35 Successfully processed image thanh_giao_yeu_ly_image_109.jpeg
+2024/11/29 10:00:14 Successfully processed image thanh_giao_yeu_ly_image_121.jpeg
+2024/11/29 10:00:28 Successfully processed image thanh_giao_yeu_ly_image_123.jpeg
+2024/11/29 10:02:00 Successfully processed image thanh_giao_yeu_ly_image_125.jpeg
+2024/11/29 10:02:12 Successfully processed image thanh_giao_yeu_ly_image_127.jpeg
+2024/11/29 10:02:25 Successfully processed image thanh_giao_yeu_ly_image_129.jpeg
+2024/11/29 10:02:37 Successfully processed image thanh_giao_yeu_ly_image_13.jpeg
+2024/11/29 10:05:45 Successfully processed image thanh_giao_yeu_ly_image_133.jpeg
+2024/11/29 10:05:45 Successfully processed image thanh_giao_yeu_ly_image_131.jpeg
+2024/11/29 10:06:26 Successfully processed image thanh_giao_yeu_ly_image_137.jpeg
+2024/11/29 10:06:26 Successfully processed image thanh_giao_yeu_ly_image_135.jpeg
+2024/11/29 10:07:17 Failed to process image thanh_giao_yeu_ly_image_139.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:07:17 Failed to process image thanh_giao_yeu_ly_image_141.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:08:02 Successfully processed image thanh_giao_yeu_ly_image_143.jpeg
+2024/11/29 10:08:11 Failed to process image thanh_giao_yeu_ly_image_145.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:08:46 Successfully processed image thanh_giao_yeu_ly_image_147.jpeg
+2024/11/29 10:08:47 Successfully processed image thanh_giao_yeu_ly_image_149.jpeg
+2024/11/29 10:09:39 Failed to process image thanh_giao_yeu_ly_image_153.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:09:40 Failed to process image thanh_giao_yeu_ly_image_151.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:09:40 Failed to process image thanh_giao_yeu_ly_image_15.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:09:40 Failed to process image thanh_giao_yeu_ly_image_157.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:09:40 Failed to process image thanh_giao_yeu_ly_image_145.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:09:40 Failed to process image thanh_giao_yeu_ly_image_141.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:09:40 Failed to process image thanh_giao_yeu_ly_image_139.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:11:23 Successfully processed image thanh_giao_yeu_ly_image_141.jpeg
+2024/11/29 10:11:38 Successfully processed image thanh_giao_yeu_ly_image_139.jpeg
+2024/11/29 10:11:54 Successfully processed image thanh_giao_yeu_ly_image_15.jpeg
+2024/11/29 10:12:07 Successfully processed image thanh_giao_yeu_ly_image_145.jpeg
+2024/11/29 10:12:52 Successfully processed image thanh_giao_yeu_ly_image_151.jpeg
+2024/11/29 10:12:52 Successfully processed image thanh_giao_yeu_ly_image_153.jpeg
+2024/11/29 10:20:44 Failed to process image thanh_giao_yeu_ly_image_159.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:44 Failed to process image thanh_giao_yeu_ly_image_157.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:44 Failed to process image thanh_giao_yeu_ly_image_163.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:44 Failed to process image thanh_giao_yeu_ly_image_155.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:45 Failed to process image thanh_giao_yeu_ly_image_161.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:46 Failed to process image thanh_giao_yeu_ly_image_173.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:46 Failed to process image thanh_giao_yeu_ly_image_169.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:46 Failed to process image thanh_giao_yeu_ly_image_167.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:46 Failed to process image thanh_giao_yeu_ly_image_171.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:46 Failed to process image thanh_giao_yeu_ly_image_165.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:48 Failed to process image thanh_giao_yeu_ly_image_181.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:48 Failed to process image thanh_giao_yeu_ly_image_175.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:48 Failed to process image thanh_giao_yeu_ly_image_177.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:48 Failed to process image thanh_giao_yeu_ly_image_179.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:20:49 Failed to process image thanh_giao_yeu_ly_image_183.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:27:38 Successfully processed image thanh_giao_yeu_ly_image_159.jpeg
+2024/11/29 10:27:58 Successfully processed image thanh_giao_yeu_ly_image_163.jpeg
+2024/11/29 10:28:02 Successfully processed image thanh_giao_yeu_ly_image_157.jpeg
+2024/11/29 10:29:01 Failed to process image thanh_giao_yeu_ly_image_155.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:02 Failed to process image thanh_giao_yeu_ly_image_161.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:04 Failed to process image thanh_giao_yeu_ly_image_165.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:05 Failed to process image thanh_giao_yeu_ly_image_167.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:19 Failed to process image thanh_giao_yeu_ly_image_155.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:20 Failed to process image thanh_giao_yeu_ly_image_161.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:47 Failed to process image thanh_giao_yeu_ly_image_155.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:48 Failed to process image thanh_giao_yeu_ly_image_161.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:29:50 Failed to process image thanh_giao_yeu_ly_image_165.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:18 Failed to process image thanh_giao_yeu_ly_image_155.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:18 Failed to process image thanh_giao_yeu_ly_image_161.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:18 Failed to process image thanh_giao_yeu_ly_image_165.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:19 Failed to process image thanh_giao_yeu_ly_image_167.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:19 Failed to process image thanh_giao_yeu_ly_image_169.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:20 Failed to process image thanh_giao_yeu_ly_image_171.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:30:52 Successfully processed image thanh_giao_yeu_ly_image_155.jpeg
+2024/11/29 10:31:04 Successfully processed image thanh_giao_yeu_ly_image_161.jpeg
+2024/11/29 10:31:48 Successfully processed image thanh_giao_yeu_ly_image_165.jpeg
+2024/11/29 10:31:59 Successfully processed image thanh_giao_yeu_ly_image_167.jpeg
+2024/11/29 10:32:12 Successfully processed image thanh_giao_yeu_ly_image_169.jpeg
+2024/11/29 10:32:24 Successfully processed image thanh_giao_yeu_ly_image_171.jpeg
+2024/11/29 10:32:36 Successfully processed image thanh_giao_yeu_ly_image_173.jpeg
+2024/11/29 10:32:49 Successfully processed image thanh_giao_yeu_ly_image_175.jpeg
+2024/11/29 10:33:01 Successfully processed image thanh_giao_yeu_ly_image_177.jpeg
+2024/11/29 10:33:11 Successfully processed image thanh_giao_yeu_ly_image_179.jpeg
+2024/11/29 10:33:11 Failed to process image thanh_giao_yeu_ly_image_181.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:33:12 Failed to process image thanh_giao_yeu_ly_image_183.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:33:12 Failed to process image thanh_giao_yeu_ly_image_185.jpeg: failed to upload image: upload failed with code 000403
+2024/11/29 10:36:01 Successfully processed image thanh_giao_yeu_ly_image_181.jpeg
+2024/11/29 10:36:13 Successfully processed image thanh_giao_yeu_ly_image_183.jpeg
+2024/11/29 10:37:56 Successfully processed image thanh_giao_yeu_ly_image_185.jpeg
+2024/11/29 10:42:27 Successfully processed image thanh_giao_yeu_ly_image_187.jpeg
+2024/11/29 10:43:22 Successfully processed image thanh_giao_yeu_ly_image_189.jpeg
+2024/11/29 10:53:21 Successfully processed image thanh_giao_yeu_ly_image_205.jpeg
+2024/11/29 10:54:02 Failed to process image thanh_giao_yeu_ly_image_197.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:54:09 Failed to process image thanh_giao_yeu_ly_image_19.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:54:10 Failed to process image thanh_giao_yeu_ly_image_193.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:54:12 Failed to process image thanh_giao_yeu_ly_image_203.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:54:18 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:54:22 Failed to process image thanh_giao_yeu_ly_image_207.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:54:25 Failed to process image thanh_giao_yeu_ly_image_199.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:55:13 Successfully processed image thanh_giao_yeu_ly_image_191.jpeg
+2024/11/29 10:55:21 Failed to process image thanh_giao_yeu_ly_image_201.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:55:53 Successfully processed image thanh_giao_yeu_ly_image_225.jpeg
+2024/11/29 10:56:15 Successfully processed image thanh_giao_yeu_ly_image_221.jpeg
+2024/11/29 10:56:19 Successfully processed image thanh_giao_yeu_ly_image_211.jpeg
+2024/11/29 10:57:58 Successfully processed image thanh_giao_yeu_ly_image_21.jpeg
+2024/11/29 10:58:33 Failed to process image thanh_giao_yeu_ly_image_215.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:58:35 Failed to process image thanh_giao_yeu_ly_image_209.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:58:37 Failed to process image thanh_giao_yeu_ly_image_219.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:58:44 Failed to process image thanh_giao_yeu_ly_image_213.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:58:47 Failed to process image thanh_giao_yeu_ly_image_223.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 10:59:52 Successfully processed image thanh_giao_yeu_ly_image_217.jpeg
+2024/11/29 11:00:26 Successfully processed image thanh_giao_yeu_ly_image_23.jpeg
+2024/11/29 11:00:50 Successfully processed image thanh_giao_yeu_ly_image_233.jpeg
+2024/11/29 11:02:07 Successfully processed image thanh_giao_yeu_ly_image_213.jpeg
+2024/11/29 11:02:40 Failed to process image thanh_giao_yeu_ly_image_199.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:02:41 Failed to process image thanh_giao_yeu_ly_image_19.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:02:42 Failed to process image thanh_giao_yeu_ly_image_193.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:02:43 Failed to process image thanh_giao_yeu_ly_image_201.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:02:47 Failed to process image thanh_giao_yeu_ly_image_197.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:02:47 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:03:55 Successfully processed image thanh_giao_yeu_ly_image_207.jpeg
+2024/11/29 11:04:07 Successfully processed image thanh_giao_yeu_ly_image_209.jpeg
+2024/11/29 11:07:54 Successfully processed image thanh_giao_yeu_ly_image_203.jpeg
+2024/11/29 11:08:27 Successfully processed image thanh_giao_yeu_ly_image_235.jpeg
+2024/11/29 11:08:46 Successfully processed image thanh_giao_yeu_ly_image_229.jpeg
+2024/11/29 11:08:50 Successfully processed image thanh_giao_yeu_ly_image_223.jpeg
+2024/11/29 11:09:19 Successfully processed image thanh_giao_yeu_ly_image_241.jpeg
+2024/11/29 11:09:20 Successfully processed image thanh_giao_yeu_ly_image_237.jpeg
+2024/11/29 11:09:24 Successfully processed image thanh_giao_yeu_ly_image_231.jpeg
+2024/11/29 11:10:27 Successfully processed image thanh_giao_yeu_ly_image_31.jpeg
+2024/11/29 11:11:09 Failed to process image thanh_giao_yeu_ly_image_3.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:11 Failed to process image thanh_giao_yeu_ly_image_37.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:13 Failed to process image thanh_giao_yeu_ly_image_35.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:14 Failed to process image thanh_giao_yeu_ly_image_39.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:14 Failed to process image thanh_giao_yeu_ly_image_29.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:15 Failed to process image thanh_giao_yeu_ly_image_25.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:18 Failed to process image thanh_giao_yeu_ly_image_199.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:20 Failed to process image thanh_giao_yeu_ly_image_197.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:20 Failed to process image thanh_giao_yeu_ly_image_41.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:22 Failed to process image thanh_giao_yeu_ly_image_215.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:25 Failed to process image thanh_giao_yeu_ly_image_201.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:29 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:30 Failed to process image thanh_giao_yeu_ly_image_219.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:30 Failed to process image thanh_giao_yeu_ly_image_27.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:31 Failed to process image thanh_giao_yeu_ly_image_193.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:36 Failed to process image thanh_giao_yeu_ly_image_19.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:11:44 Failed to process image thanh_giao_yeu_ly_image_239.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:12:46 Failed to process image thanh_giao_yeu_ly_image_227.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:12:46 Failed to process image thanh_giao_yeu_ly_image_33.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:07 Failed to process image thanh_giao_yeu_ly_image_7.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:10 Failed to process image thanh_giao_yeu_ly_image_69.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:10 Failed to process image thanh_giao_yeu_ly_image_53.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:10 Failed to process image thanh_giao_yeu_ly_image_59.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:15 Failed to process image thanh_giao_yeu_ly_image_43.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:16 Failed to process image thanh_giao_yeu_ly_image_77.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:16 Failed to process image thanh_giao_yeu_ly_image_63.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:22 Failed to process image thanh_giao_yeu_ly_image_61.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:14:25 Failed to process image thanh_giao_yeu_ly_image_57.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:19:51 Successfully processed image thanh_giao_yeu_ly_image_63.jpeg
+2024/11/29 11:20:36 Failed to process image thanh_giao_yeu_ly_image_73.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:36 Failed to process image thanh_giao_yeu_ly_image_5.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:37 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:39 Failed to process image thanh_giao_yeu_ly_image_37.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:43 Failed to process image thanh_giao_yeu_ly_image_55.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:44 Failed to process image thanh_giao_yeu_ly_image_75.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:45 Failed to process image thanh_giao_yeu_ly_image_239.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:45 Failed to process image thanh_giao_yeu_ly_image_43.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:47 Failed to process image thanh_giao_yeu_ly_image_19.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:47 Failed to process image thanh_giao_yeu_ly_image_7.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:48 Failed to process image thanh_giao_yeu_ly_image_197.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:52 Failed to process image thanh_giao_yeu_ly_image_47.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:52 Failed to process image thanh_giao_yeu_ly_image_33.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:54 Failed to process image thanh_giao_yeu_ly_image_27.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:54 Failed to process image thanh_giao_yeu_ly_image_69.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:54 Failed to process image thanh_giao_yeu_ly_image_227.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:59 Failed to process image thanh_giao_yeu_ly_image_77.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:59 Failed to process image thanh_giao_yeu_ly_image_199.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:20:59 Failed to process image thanh_giao_yeu_ly_image_215.jpeg: OCR error: failed to parse JSON response: invalid character '<' looking for beginning of value
+2024/11/29 11:28:40 Failed to process image thanh_giao_yeu_ly_image_33.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:40 Failed to process image thanh_giao_yeu_ly_image_71.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:43 Failed to process image thanh_giao_yeu_ly_image_45.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:43 Failed to process image thanh_giao_yeu_ly_image_201.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:44 Failed to process image thanh_giao_yeu_ly_image_75.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:44 Failed to process image thanh_giao_yeu_ly_image_65.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:46 Failed to process image thanh_giao_yeu_ly_image_27.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:47 Failed to process image thanh_giao_yeu_ly_image_51.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:28:47 Failed to process image thanh_giao_yeu_ly_image_57.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:33:14 Successfully processed image thanh_giao_yeu_ly_image_227.jpeg
+2024/11/29 11:35:44 Failed to process image thanh_giao_yeu_ly_image_239.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:35:44 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:35:45 Failed to process image thanh_giao_yeu_ly_image_201.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:35:46 Failed to process image thanh_giao_yeu_ly_image_19.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:35:46 Failed to process image thanh_giao_yeu_ly_image_193.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:37:48 Failed to process image thanh_giao_yeu_ly_image_219.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:37:55 Failed to process image thanh_giao_yeu_ly_image_197.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:37:58 Failed to process image thanh_giao_yeu_ly_image_199.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:37:58 Failed to process image thanh_giao_yeu_ly_image_215.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:41:06 Failed to process image thanh_giao_yeu_ly_image_27.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:41:09 Failed to process image thanh_giao_yeu_ly_image_3.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:41:09 Failed to process image thanh_giao_yeu_ly_image_33.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:41:11 Failed to process image thanh_giao_yeu_ly_image_29.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:47:13 Successfully processed image thanh_giao_yeu_ly_image_215.jpeg
+2024/11/29 11:49:43 Failed to process image thanh_giao_yeu_ly_image_219.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:49:44 Failed to process image thanh_giao_yeu_ly_image_195.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:49:44 Failed to process image thanh_giao_yeu_ly_image_39.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:49:46 Failed to process image thanh_giao_yeu_ly_image_51.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:49:49 Failed to process image thanh_giao_yeu_ly_image_45.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 11:49:58 Failed to process image thanh_giao_yeu_ly_image_37.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
