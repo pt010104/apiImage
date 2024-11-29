@@ -1,0 +1,38 @@
+# Tor state file last generated on 2024-11-29 13:23:34 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 1125 2
+CircuitBuildTimeBin 1145 1
+CircuitBuildTimeBin 1165 1
+CircuitBuildTimeBin 1195 1
+CircuitBuildTimeBin 1305 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1445 1
+CircuitBuildTimeBin 1555 1
+CircuitBuildTimeBin 1695 1
+CircuitBuildTimeBin 1995 1
+Dormant 0
+Guard in=default rsa_id=27B7D6C06F30BD7A3B3BF8334A414513952BF738 nickname=Unnamed sampled_on=2024-11-18T22:50:42 sampled_idx=0 sampled_by=0.4.6.10 listed=1 confirmed_on=2024-11-27T23:46:55 confirmed_idx=1 pb_circ_attempts=4.000000 pb_circ_successes=4.000000 pb_successful_circuits_closed=4.000000
+Guard in=default rsa_id=6ADEE8E510AF7F0D7E501E45183801D02D37D077 nickname=zadrotik sampled_on=2024-11-20T21:35:46 sampled_idx=1 sampled_by=0.4.6.10 listed=1 confirmed_on=2024-11-19T14:19:26 confirmed_idx=0 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=7.000000 pb_circ_successes=7.000000 pb_successful_circuits_closed=7.000000
+Guard in=default rsa_id=2F95C32B7EF5F3620C529BD48A533C8F793357E5 nickname=BerluGiaNoVive sampled_on=2024-11-17T21:33:29 sampled_idx=2 sampled_by=0.4.6.10 listed=1 confirmed_on=2024-11-17T09:57:41 confirmed_idx=2
+Guard in=default rsa_id=950E02DB326D28101E29286044C5714A204F3222 nickname=cello sampled_on=2024-11-18T08:21:19 sampled_idx=3 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=89E54B30A1613B2C6D4212B069BA43A1E38E276E nickname=prsv sampled_on=2024-11-29T04:13:04 sampled_idx=4 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=C5F03E7A798CA237E7BDD44091BEFE35F2F59AE1 nickname=Vigilance sampled_on=2024-11-24T11:07:45 sampled_idx=5 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=616D768A421DD4E6F4BB55BBDCB5B5DE6E7E7079 nickname=cozybeardev sampled_on=2024-11-20T13:49:23 sampled_idx=6 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=91E0CC5EB55620EC71B360B4C512357A2E92337B nickname=prsv sampled_on=2024-11-22T07:05:08 sampled_idx=7 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=6E352F637E9D5D882CDBA454733E1691F4D685FD nickname=VenomReaper sampled_on=2024-11-22T12:45:04 sampled_idx=8 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=45FA08CC2A41FE183E4FF5DEDB3AAB13C01FAD39 nickname=bauruine sampled_on=2024-11-28T11:24:27 sampled_idx=9 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=A5CAF012A4A940914DC441746B9342A6EC116417 nickname=Unnamed sampled_on=2024-11-20T07:12:26 sampled_idx=10 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=EE2A621042994B29452C12FF3B6F62D9E957758C nickname=Unnamed sampled_on=2024-11-28T14:45:46 sampled_idx=11 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=1CC7363E81050066B9778950273B7AF89E714B9F nickname=Heidi sampled_on=2024-11-17T17:56:22 sampled_idx=12 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=013AD81926572519EBCB7048E78462B5E9F1319D nickname=ThePearl sampled_on=2024-11-20T11:55:56 sampled_idx=13 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=8D1272C0D099500E3AD69774D699BB857AFDF397 nickname=Unnamed sampled_on=2024-11-22T13:50:19 sampled_idx=14 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=0CE59DBA1A9A747A428C711892AC093BBA34C38E nickname=relayon1161 sampled_on=2024-11-24T11:41:53 sampled_idx=15 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=B25E02013A30693556480274240B8B392AB04179 nickname=7d8d64935ed96451d1f sampled_on=2024-11-27T05:03:54 sampled_idx=16 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=D1C60F9BCF2DBA07A775978F66C9927D3A9490BB nickname=juggernautrelay sampled_on=2024-11-24T01:14:45 sampled_idx=17 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=2F2BCB532689FFEC760E5EC5F6C08E44CBBD50C9 nickname=GourouLubrik sampled_on=2024-11-21T15:04:55 sampled_idx=18 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=96A18014A391024749FDC9197B21EF037BB13241 nickname=Hemlock sampled_on=2024-11-26T18:08:14 sampled_idx=19 sampled_by=0.4.6.10 listed=1
+LastWritten 2024-11-29 06:23:34
+TorVersion Tor 0.4.6.10
+TotalBuildTimes 11

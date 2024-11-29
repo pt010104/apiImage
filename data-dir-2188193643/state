@@ -1,0 +1,31 @@
+# Tor state file last generated on 2024-11-29 13:19:34 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 885 1
+CircuitBuildTimeBin 1075 1
+CircuitBuildTimeBin 1145 1
+Dormant 0
+Guard in=default rsa_id=FAE63489E9B007AC2EA929C7943CCCBA6A386A3A nickname=flowjob06 sampled_on=2024-11-26T01:42:05 sampled_idx=0 sampled_by=0.4.6.10 listed=1 confirmed_on=2024-11-19T19:44:55 confirmed_idx=1 pb_circ_attempts=3.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=7708D0B6450F678752169A82B59CFB58C2F8D77B nickname=prsv sampled_on=2024-11-23T04:50:18 sampled_idx=1 sampled_by=0.4.6.10 listed=1 confirmed_on=2024-11-20T01:24:29 confirmed_idx=0
+Guard in=default rsa_id=60A211F20E74C7D2D884BA49202964F5C94FA015 nickname=Cyprus sampled_on=2024-11-21T00:42:39 sampled_idx=2 sampled_by=0.4.6.10 listed=1 confirmed_on=2024-11-20T22:04:22 confirmed_idx=2 pb_circ_attempts=2.000000 pb_circ_successes=2.000000 pb_successful_circuits_closed=2.000000
+Guard in=default rsa_id=AEA5C9C1791B36DA7E751723FEB66B0F511E4FC8 nickname=test sampled_on=2024-11-26T03:05:52 sampled_idx=3 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=3C0FCDD2FCD61DB6227A8273FEF49D61885880AA nickname=ggroland sampled_on=2024-11-20T19:31:35 sampled_idx=4 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=DFA46FE65F01E255D544EF3E7DA9217D51096142 nickname=Unnamed sampled_on=2024-11-26T00:24:50 sampled_idx=5 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=303509AB910EF207B7438C27435C4A2FD579F1B1 nickname=Ukko sampled_on=2024-11-25T04:05:34 sampled_idx=6 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=6FE30A2A59E9A2E84723CF05E3C5051BB42175D3 nickname=easybird sampled_on=2024-11-28T20:10:05 sampled_idx=7 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=E4C12BFB3AC2E6F16E4F1F34AA807D11D924E905 nickname=TheBlindAppearance sampled_on=2024-11-21T19:24:46 sampled_idx=8 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=0B4190C676FAAD34EB2DCB9A288939476CEBCF32 nickname=FasterRelay sampled_on=2024-11-21T09:46:13 sampled_idx=9 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=561887642D19D32FA7437421F8B5EF7B39F50530 nickname=0xdeadbeef sampled_on=2024-11-20T05:52:47 sampled_idx=10 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=8772EBE75431B98198459B8A538CF1B400BC9DED nickname=prsv sampled_on=2024-11-26T15:40:58 sampled_idx=11 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=644A1E27DE0868FD04C1E2D3C732F12E069C57A1 nickname=it2potts sampled_on=2024-11-27T03:35:43 sampled_idx=12 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=2659ACAA140B6845E38F189B4080817B9819EB9A nickname=hatcheck sampled_on=2024-11-21T01:01:10 sampled_idx=13 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=8639EC2D472AEC280B11288ADADBCC9A6711EC1B nickname=TorRelayFL sampled_on=2024-11-26T07:45:19 sampled_idx=14 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=5F3B05B9A5575E614337AFA84DF04F526CD14C1B nickname=PWKR sampled_on=2024-11-21T17:39:45 sampled_idx=15 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=833024B3C4893AF10663483F28C51E6CA6BD6508 nickname=ForPrivacyNET sampled_on=2024-11-23T06:45:48 sampled_idx=16 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=E47BD64582464688DAC92E88CDFFD0CD72E7F805 nickname=havana sampled_on=2024-11-26T10:33:24 sampled_idx=17 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=63F7DC3102C95E010F83B2041A5938909E4ABAF2 nickname=FTPhalifaxRWTH sampled_on=2024-11-17T21:56:12 sampled_idx=18 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=693F0A23AB32726570F79857D92997A5125EC2D2 nickname=yamamoto sampled_on=2024-11-27T23:05:25 sampled_idx=19 sampled_by=0.4.6.10 listed=1
+LastWritten 2024-11-29 06:19:34
+TorVersion Tor 0.4.6.10
+TotalBuildTimes 3

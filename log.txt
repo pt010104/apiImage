@@ -679,3 +679,101 @@ The server didn't respond in time.
 The server didn't respond in time.
 </body></html>
 
+2024/11/29 12:03:49 Successfully processed image thanh_giao_yeu_ly_image_219.jpeg
+2024/11/29 12:04:40 Successfully processed image thanh_giao_yeu_ly_image_195.jpeg
+2024/11/29 12:07:13 Successfully processed image thanh_giao_yeu_ly_image_39.jpeg
+2024/11/29 13:22:50 Successfully processed image thanh_giao_yeu_ly_image_45.jpeg
+2024/11/29 13:22:52 Successfully processed image thanh_giao_yeu_ly_image_5.jpeg
+2024/11/29 13:24:30 Successfully processed image thanh_giao_yeu_ly_image_77.jpeg
+2024/11/29 13:27:06 Failed to process image thanh_giao_yeu_ly_image_83.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:07 Failed to process image thanh_giao_yeu_ly_image_53.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:07 Failed to process image thanh_giao_yeu_ly_image_43.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:08 Failed to process image thanh_giao_yeu_ly_image_73.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:09 Failed to process image thanh_giao_yeu_ly_image_75.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:10 Failed to process image thanh_giao_yeu_ly_image_65.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:11 Failed to process image thanh_giao_yeu_ly_image_85.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:11 Failed to process image thanh_giao_yeu_ly_image_41.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:12 Failed to process image thanh_giao_yeu_ly_image_81.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:12 Failed to process image thanh_giao_yeu_ly_image_57.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:13 Failed to process image thanh_giao_yeu_ly_image_87.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:15 Failed to process image thanh_giao_yeu_ly_image_61.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:18 Failed to process image thanh_giao_yeu_ly_image_37.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:27:19 Failed to process image thanh_giao_yeu_ly_image_67.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:31:09 Failed to process image thanh_giao_yeu_ly_image_41.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:33:29 Failed to process image thanh_giao_yeu_ly_image_43.jpeg: OCR error: server returned error: 504 504 Gateway Time-out, body: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+2024/11/29 13:37:42 Successfully processed image thanh_giao_yeu_ly_image_41.jpeg
+2024/11/29 13:37:56 Successfully processed image thanh_giao_yeu_ly_image_37.jpeg
+2024/11/29 13:40:41 Successfully processed image thanh_giao_yeu_ly_image_51.jpeg
+2024/11/29 13:40:54 Successfully processed image thanh_giao_yeu_ly_image_43.jpeg
+2024/11/29 13:41:48 Successfully processed image thanh_giao_yeu_ly_image_55.jpeg
+2024/11/29 13:41:58 Successfully processed image thanh_giao_yeu_ly_image_53.jpeg
+2024/11/29 13:46:19 Successfully processed image thanh_giao_yeu_ly_image_57.jpeg
+2024/11/29 13:46:29 Successfully processed image thanh_giao_yeu_ly_image_59.jpeg
+2024/11/29 13:46:50 Successfully processed image thanh_giao_yeu_ly_image_61.jpeg
+2024/11/29 13:47:02 Successfully processed image thanh_giao_yeu_ly_image_65.jpeg
+2024/11/29 13:49:39 Successfully processed image thanh_giao_yeu_ly_image_67.jpeg
+2024/11/29 13:49:51 Successfully processed image thanh_giao_yeu_ly_image_71.jpeg
+2024/11/29 13:50:11 Successfully processed image thanh_giao_yeu_ly_image_75.jpeg
+2024/11/29 13:50:23 Successfully processed image thanh_giao_yeu_ly_image_73.jpeg
+2024/11/29 13:54:44 Successfully processed image thanh_giao_yeu_ly_image_81.jpeg
+2024/11/29 13:54:56 Successfully processed image thanh_giao_yeu_ly_image_79.jpeg
+2024/11/29 13:55:43 Successfully processed image thanh_giao_yeu_ly_image_85.jpeg
+2024/11/29 13:55:52 Successfully processed image thanh_giao_yeu_ly_image_83.jpeg
+2024/11/29 13:57:30 Successfully processed image thanh_giao_yeu_ly_image_89.jpeg
+2024/11/29 13:57:43 Successfully processed image thanh_giao_yeu_ly_image_87.jpeg
+2024/11/29 13:58:38 Failed to process image thanh_giao_yeu_ly_image_9.jpeg: failed to upload image: POST request failed: Post "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/image-upload": read tcp 127.0.0.1:55492->127.0.0.1:38319: read: connection reset by peer
+2024/11/29 13:58:38 Failed to process image thanh_giao_yeu_ly_image_91.jpeg: failed to upload image: POST request failed: Post "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/image-upload": read tcp 127.0.0.1:55506->127.0.0.1:38319: read: connection reset by peer
+2024/11/29 13:59:10 Successfully processed image thanh_giao_yeu_ly_image_95.jpeg
+2024/11/29 13:59:26 Successfully processed image thanh_giao_yeu_ly_image_93.jpeg
+2024/11/29 13:59:48 Successfully processed image thanh_giao_yeu_ly_image_99.jpeg
+2024/11/29 14:00:45 Successfully processed image thanh_giao_yeu_ly_image_9.jpeg
+2024/11/29 14:00:55 Successfully processed image thanh_giao_yeu_ly_image_91.jpeg
+2024/11/29 14:01:08 Successfully processed image thanh_giao_yeu_ly_image_97.jpeg

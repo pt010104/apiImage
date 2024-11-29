@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -14,6 +15,8 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/cretz/bine/tor"
 )
 
 const baseURL = "https://tools.clc.hcmus.edu.vn"
@@ -67,6 +70,8 @@ type OCRItem struct {
 	Points     [][2]float64 `json:"points"`
 }
 
+var currentIPChangeCount = 0
+
 func main() {
 	logFile, err := os.OpenFile(logFile, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
@@ -95,10 +100,35 @@ func main() {
 		}
 	}
 
-	batchSize := 1
+	batchSize := 2
 	totalBatches := (len(validImageFiles) + batchSize - 1) / batchSize
 
+	var torProxy *tor.Tor
+	var client *http.Client
+
+	dataDirs, err := getDataDirs()
+	if err != nil || len(dataDirs) == 0 {
+		fmt.Println("No data directories found.")
+		return
+	}
+
+	dataDirIndex := 0
+
 	for batch := 0; batch < totalBatches; batch++ {
+		if batch%2 == 0 {
+			if torProxy != nil {
+				torProxy.Close()
+			}
+			dataDir := dataDirs[dataDirIndex%len(dataDirs)]
+			dataDirIndex++
+
+			torProxy, client, err = switchIP(dataDir)
+			if err != nil {
+				fmt.Printf("Error switching IP: %v\n", err)
+				continue
+			}
+		}
+
 		start := batch * batchSize
 		end := start + batchSize
 		if end > len(validImageFiles) {
@@ -112,23 +142,78 @@ func main() {
 			go func(file os.FileInfo) {
 				defer wg.Done()
 				imagePath := filepath.Join(processedImagesDir, file.Name())
-				err := processImage(imagePath)
+				err := processImage(imagePath, client)
 				if err != nil {
 					logger.Printf("Failed to process image %s: %v", file.Name(), err)
 				} else {
 					logger.Printf("Successfully processed image %s", file.Name())
 				}
 			}(file)
-
 		}
 
 		wg.Wait()
-		if batch < totalBatches-1 {
-			if batch%2 == 0 {
-				time.Sleep(60 * time.Second)
-			}
+	}
+
+	if torProxy != nil {
+		torProxy.Close()
+	}
+}
+
+func getDataDirs() ([]string, error) {
+	var dirs []string
+	currentDir, err := filepath.Abs(".")
+	if err != nil {
+		return nil, err
+	}
+	files, err := ioutil.ReadDir(currentDir)
+	if err != nil {
+		return nil, err
+	}
+	for _, f := range files {
+		if f.IsDir() && strings.HasPrefix(f.Name(), "data-dir-") {
+			absPath := filepath.Join(currentDir, f.Name())
+			dirs = append(dirs, absPath)
 		}
 	}
+	return dirs, nil
+}
+
+func switchIP(dataDir string) (*tor.Tor, *http.Client, error) {
+	currentIPChangeCount++
+	fmt.Printf("Changing IP... (%d) using data directory: %s\n", currentIPChangeCount, dataDir)
+
+	torProxy, err := startTor(dataDir)
+	if err != nil {
+		fmt.Printf("Error starting Tor: %v\n", err)
+		return nil, nil, err
+	}
+
+	client := getTorClient(torProxy)
+
+	fmt.Println("Switched IP successfully!")
+	return torProxy, client, nil
+}
+
+func startTor(dataDir string) (*tor.Tor, error) {
+	t, err := tor.Start(nil, &tor.StartConf{DataDir: dataDir})
+	if err != nil {
+		return nil, fmt.Errorf("could not start Tor with dataDir %s: %w", dataDir, err)
+	}
+	return t, nil
+}
+
+func getTorClient(t *tor.Tor) *http.Client {
+	dialCtx, err := t.Dialer(context.Background(), nil)
+	if err != nil {
+		fmt.Printf("Error getting Tor dialer: %v\n", err)
+		return nil
+	}
+	client := &http.Client{
+		Transport: &http.Transport{
+			DialContext: dialCtx.DialContext,
+		},
+	}
+	return client
 }
 
 func isImageFile(filename string) bool {
@@ -142,25 +227,25 @@ func isImageFile(filename string) bool {
 	return false
 }
 
-func processImage(imagePath string) error {
+func processImage(imagePath string, client *http.Client) error {
 	imageName := filepath.Base(imagePath)
-	fileName, err := uploadImage(imagePath)
+	fileName, err := uploadImage(imagePath, client)
 	if err != nil {
 		return fmt.Errorf("failed to upload image: %w", err)
 	}
 
 	var forceClassID int
-	forceClassID = 1 //Comment if want to classify image
+	forceClassID = 1 // Comment if want to classify image
 
 	if forceClassID == 0 {
-		classificationData, err := classifyImage(fileName)
+		classificationData, err := classifyImage(fileName, client)
 		if err != nil {
 			return fmt.Errorf("classification error: %w", err)
 		}
 		forceClassID = classificationData.ClassificationID
 	}
 
-	ocrData, err := ocrImage(fileName, forceClassID)
+	ocrData, err := ocrImage(fileName, forceClassID, client)
 	if err != nil {
 		return fmt.Errorf("OCR error: %w", err)
 	}
@@ -178,7 +263,7 @@ func processImage(imagePath string) error {
 	return nil
 }
 
-func uploadImage(imagePath string) (string, error) {
+func uploadImage(imagePath string, client *http.Client) (string, error) {
 	url := fmt.Sprintf("%s/api/web/clc-sinonom/image-upload", baseURL)
 
 	file, err := os.Open(imagePath)
@@ -208,7 +293,6 @@ func uploadImage(imagePath string) (string, error) {
 	}
 	req.Header.Set("Content-Type", writer.FormDataContentType())
 
-	client := &http.Client{}
 	resp, err := client.Do(req)
 	if err != nil {
 		return "", fmt.Errorf("POST request failed: %w", err)
@@ -231,7 +315,7 @@ func uploadImage(imagePath string) (string, error) {
 	return uploadResp.Data.FileName, nil
 }
 
-func classifyImage(fileName string) (ClassificationData, error) {
+func classifyImage(fileName string, client *http.Client) (ClassificationData, error) {
 	url := fmt.Sprintf("%s/api/web/clc-sinonom/image-classification", baseURL)
 
 	bodyMap := map[string]string{"file_name": fileName}
@@ -246,7 +330,6 @@ func classifyImage(fileName string) (ClassificationData, error) {
 	}
 	req.Header.Set("Content-Type", "application/json")
 
-	client := &http.Client{}
 	resp, err := client.Do(req)
 	if err != nil {
 		return ClassificationData{}, fmt.Errorf("POST request failed: %w", err)
@@ -269,7 +352,7 @@ func classifyImage(fileName string) (ClassificationData, error) {
 	return classificationResp.Data, nil
 }
 
-func ocrImage(fileName string, ocrID int) (OCRData, error) {
+func ocrImage(fileName string, ocrID int, client *http.Client) (OCRData, error) {
 	url := fmt.Sprintf("%s/api/web/clc-sinonom/image-ocr", baseURL)
 
 	bodyMap := map[string]string{
@@ -281,33 +364,66 @@ func ocrImage(fileName string, ocrID int) (OCRData, error) {
 		return OCRData{}, fmt.Errorf("failed to marshal JSON: %w", err)
 	}
 
-	req, err := http.NewRequest("POST", url, bytes.NewBuffer(bodyBytes))
-	if err != nil {
-		return OCRData{}, fmt.Errorf("failed to create POST request: %w", err)
-	}
-	req.Header.Set("Content-Type", "application/json")
+	maxRetries := 3
+	retryDelay := time.Second * 1
 
-	client := &http.Client{}
-	resp, err := client.Do(req)
-	if err != nil {
-		return OCRData{}, fmt.Errorf("POST request failed: %w", err)
-	}
-	defer resp.Body.Close()
+	for attempt := 1; attempt <= maxRetries; attempt++ {
+		req, err := http.NewRequest("POST", url, bytes.NewBuffer(bodyBytes))
+		if err != nil {
+			return OCRData{}, fmt.Errorf("failed to create POST request: %w", err)
+		}
+		req.Header.Set("Content-Type", "application/json")
 
-	responseBody, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		return OCRData{}, fmt.Errorf("failed to read response body: %w", err)
+		resp, err := client.Do(req)
+		if err != nil {
+			if attempt < maxRetries {
+				time.Sleep(retryDelay)
+				retryDelay *= 2
+				continue
+			}
+			return OCRData{}, fmt.Errorf("POST request failed after %d attempts: %w", maxRetries, err)
+		}
+		defer resp.Body.Close()
+
+		if resp.StatusCode < 200 || resp.StatusCode >= 300 {
+			body, _ := ioutil.ReadAll(resp.Body)
+			if attempt < maxRetries {
+				time.Sleep(retryDelay)
+				retryDelay *= 2
+				continue
+			}
+			return OCRData{}, fmt.Errorf("server returned error: %d %s, body: %s", resp.StatusCode, resp.Status, string(body))
+		}
+
+		responseBody, err := ioutil.ReadAll(resp.Body)
+		if err != nil {
+			return OCRData{}, fmt.Errorf("failed to read response body: %w", err)
+		}
+
+		var ocrResp OCRResponse
+		err = json.Unmarshal(responseBody, &ocrResp)
+		if err != nil {
+			if attempt < maxRetries {
+				time.Sleep(retryDelay)
+				retryDelay *= 2
+				continue
+			}
+			return OCRData{}, fmt.Errorf("failed to parse JSON response after %d attempts: %w", maxRetries, err)
+		}
+
+		if !ocrResp.IsSuccess {
+			if attempt < maxRetries {
+				time.Sleep(retryDelay)
+				retryDelay *= 2
+				continue
+			}
+			return OCRData{}, fmt.Errorf("OCR failed with code %s", ocrResp.Code)
+		}
+
+		return ocrResp.Data, nil
 	}
 
-	var ocrResp OCRResponse
-	err = json.Unmarshal(responseBody, &ocrResp)
-	if err != nil {
-		return OCRData{}, fmt.Errorf("failed to parse JSON response: %w", err)
-	}
-	if !ocrResp.IsSuccess {
-		return OCRData{}, fmt.Errorf("OCR failed with code %s", ocrResp.Code)
-	}
-	return ocrResp.Data, nil
+	return OCRData{}, fmt.Errorf("OCR failed after %d attempts", maxRetries)
 }
 
 func saveOCRResults(imageName string, ocrData OCRData) error {
@@ -328,7 +444,6 @@ func saveOCRResults(imageName string, ocrData OCRData) error {
 			continue
 		}
 
-		// Extract points (bboxItem[0])
 		pointsRaw := bboxItem[0]
 
 		var points [][2]float64
